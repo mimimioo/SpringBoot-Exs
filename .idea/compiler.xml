@@ -21,7 +21,7 @@
       <module name="ch1-2-test" options="-parameters" />
       <module name="ch2-test" options="-parameters" />
       <module name="ch2-test-homework" options="-parameters" />
-      <module name="ch3-test" options="-parameters" />
+      <module name="ch3-test" options="" />
     </option>
   </component>
 </project>
