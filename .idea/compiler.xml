@@ -9,7 +9,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ch2-test-homework" />
         <module name="ch3-test" />
-        <module name="ch4-test3" />
       </profile>
       <profile name="Gradle Imported" enabled="true">
         <outputRelativeToContentRoot value="true" />
@@ -24,6 +23,7 @@
       <module name="ch2-test" target="11" />
       <module name="ch4-test" target="11" />
       <module name="ch4-test2" target="11" />
+      <module name="ch4-test3" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -34,7 +34,7 @@
       <module name="ch3-test" options="-parameters" />
       <module name="ch4-test" options="-parameters" />
       <module name="ch4-test2" options="-parameters" />
-      <module name="ch4-test3" options="-parameters" />
+      <module name="ch4-test3" options="" />
     </option>
   </component>
 </project>
